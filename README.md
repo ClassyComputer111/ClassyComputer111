@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **some more programming languages like JSX and Python**
 
+- You can see my Profile from **https://yashasvi.carrd.co**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/classycomputer111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="classycomputer111" height="30" width="40" /></a>
