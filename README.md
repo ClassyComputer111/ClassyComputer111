@@ -17,7 +17,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/classycomputer111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="classycomputer111" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Code N Crack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code n crack" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCLwbUR1RhlTN3RhjBulUYTQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code n crack" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and  Frameworks:</h3>
