@@ -1,16 +1,18 @@
 ## Hi There 👋, I'm [Yashasvi](https://github.com/ClassyComputer111)
 
+
+
 ![](https://komarev.com/ghpvc/?username=ClassyComputer111&color=blue)
 &nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UCLwbUR1RhlTN3RhjBulUYTQ) 
 &nbsp; ![GitHub](https://img.shields.io/github/followers/ClassyComputer111?label=Follow%20Me%21&style=social)
 
 
+- 🔈 I am a **Coder and a SchoolStudent.**
+- 🌱 I’m currently learning some more programming languages like **JSX and Python.**
 
-- 🌱 I’m currently learning **some more programming languages like JSX and Python**
+- 💤You can see my personal portfolio **on: [Portfolio](https://classycomputer111.github.io/Website-Portfolio/).**
 
-- 💤You can see my personal portfolio on: [https://classycomputer111.github.io/Website-Portfolio/](https://classycomputer111.github.io/Website-Portfolio/)
-
-- 💠You can see my Profile from: **https://yashasvi.carrd.co**
+- 💠You can see my Profile **from: [A bit about me](https://yashasvi.carrd.co).**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
