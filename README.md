@@ -8,11 +8,8 @@
 
 
 - 🔈 I am a **Coder and a SchoolStudent.**
+
 - 🌱 I’m currently learning some more programming languages like **JSX and Python.**
-
-- 💤You can see my personal portfolio **on: [Portfolio](https://classycomputer111.github.io/Website-Portfolio/).**
-
-- 💠You can see my Profile **from: [A bit about me](https://yashasvi.carrd.co).**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
