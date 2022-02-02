@@ -10,7 +10,7 @@
 
 - 🔈 I am a **Coder and a SchoolStudent.**
 
-- 🌱 I’m currently learning some more programming languages like **JSX and Python.**
+- 🌱 I’m currently learning **Python.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
