@@ -4,7 +4,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=ClassyComputer111&color=blue)
-&nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UCLwbUR1RhlTN3RhjBulUYTQ) 
 &nbsp; ![GitHub](https://img.shields.io/github/followers/ClassyComputer111?label=Follow%20Me%21&style=social)
 
 
