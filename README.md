@@ -7,7 +7,7 @@
 &nbsp; ![GitHub](https://img.shields.io/github/followers/ClassyComputer111?label=Follow%20Me%21&style=social)
 
 
-- 🔈 I am a **Coder and a SchoolStudent.**
+- 🔈 I am **Someone**
 
 - 🌱 I’m currently geting done with **Python.**
 
